@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on scoping **Starfall: Web App Game**
+- 🔭 I’m currently working on **Starfall: Web App Game**
 
 - 🌱 I’m currently learning **.Net and C#**
 
